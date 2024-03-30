@@ -71,6 +71,7 @@ cargo用于rust的项目
 ```
 cargo --version//检查cargo版本
 cargo new hello_cargo//生成新的cargo项目
+//进入cargo项目后
 cargo build//编译rust的cargo项目
 cargo run//编译并执行，若第一次已编译且编译后没有改动，则第二次直接执行
 cargo check//检查代码，不生成可执行文件
